@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.fila-tabla{
+    display: flex;
+    gap: 16px;
+}
+
+.fila-tabla div{
+    width: 180px;
+}
+
+.cabecera-tabla{
+    font-weight: bold;
+    text-transform: uppercase;
+}
