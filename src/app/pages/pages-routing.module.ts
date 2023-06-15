@@ -10,7 +10,7 @@ const routes: Routes = [
    component: DashboardComponent,
   },
   {
-    path: 'transferencias',
+    path: 'transferencias-recibidas',
     component: TransferenciasRecibidasComponent,
   },
   {
